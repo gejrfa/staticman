@@ -4,7 +4,7 @@ name: Staticman Deployment
 on:
   push:
     branches:
-      - master  # ou main Déclenche le workflow à chaque push sur la branche main
+      - main  # ou main Déclenche le workflow à chaque push sur la branche main
 
 jobs:
   build:
