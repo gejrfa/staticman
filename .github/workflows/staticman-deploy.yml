@@ -1,4 +1,4 @@
-# Force execution  
+# Force execution    
 name: Staticman Deployment
 
 on:
