@@ -1,0 +1,9 @@
+{
+  "githubToken": "Token-gejr",
+  "rsaPrivateKey": "RSA_PRIVATE_KEY",
+  "port": 3000,
+  "allowedOrigins": ["https://ethereal-ribbon-colby.glitch.me/"],
+  "requiredFields": ["name", "message"],
+  "moderation": true,
+  "branch": "main"
+}
